@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Atualmente estou cursando Analise e Desenvolvimento de Sistemas, estou aprendendo python, typescript e gml.<br>
 
 
